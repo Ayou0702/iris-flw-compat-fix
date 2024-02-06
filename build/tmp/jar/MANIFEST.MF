@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: irisflw
+Specification-Vendor: examplemodsareus
+Specification-Version: 1
+Implementation-Title: iris-flw-compat
+Implementation-Version: 1.20.1-0.2.0
+Implementation-Vendor: examplemodsareus
+Implementation-Timestamp: 2024-02-06T12:10:41+0800
+MixinConfigs: irisflw.mixins.flw.json,irisflw.mixins.iris.json
+

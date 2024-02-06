@@ -143,7 +143,9 @@ repositories {
             includeGroup "maven.modrinth"
         }
     }
-
+    maven {
+        url "https://cursemaven.com"
+    }
     maven {
         name "tterrag maven"
         url "https://maven.tterrag.com/"
@@ -159,9 +161,9 @@ dependencies {
     // Apply Mixin AP
     annotationProcessor 'org.spongepowered:mixin:0.8.5:processor'
 
-    implementation fg.deobf("maven.modrinth:rubidium:${sodium_version}")
+    implementation fg.deobf("curse.maven:embeddium-908741:5077202")
 
-    implementation fg.deobf("maven.modrinth:oculus:${iris_version}")
+    implementation fg.deobf("curse.maven:oculus-581495:5080444")
 
     implementation fg.deobf("com.jozufozu.flywheel:flywheel-forge-${flywheel_minecraft_version}:${flywheel_version}")
 }

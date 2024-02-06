@@ -118,6 +118,8 @@ public abstract class IrisProgramCompilerBase<P extends WorldProgram> {
         ProgramSource processedSource = new ProgramSource(source.getName() + "_" + ctx.spec.name.getNamespace() + "_" +
                 ctx.spec.name.getPath(), vertexSource,
                 source.getGeometrySource().orElse(null),
+                source.getTessControlSource().orElse(null),
+                source.getTessEvalSource().orElse(null),
                 source.getFragmentSource().orElse(null), programSet, properties, blendModeOverride);
         return processedSource;
     }

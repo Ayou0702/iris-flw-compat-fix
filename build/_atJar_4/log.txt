@@ -1,0 +1,7 @@
+Java Launcher: D:\Zulu\zulu-17\bin\java.exe
+Arguments: '--inJar, E:\个人文档\项目\IntelliJ IDEA\Minecraft\iris-flw-compat\build\fg_cache\net\minecraftforge\forge\1.20.1-47.1.0\forge-1.20.1-47.1.0-injected.jar, --outJar, E:\个人文档\项目\IntelliJ IDEA\Minecraft\iris-flw-compat\build\fg_cache\net\minecraftforge\forge\1.20.1-47.1.0_mapped_parchment_2023.07.02-1.20.1\forge-1.20.1-47.1.0_mapped_parchment_2023.07.02-1.20.1.jar, --logFile, accesstransform.log, --atFile, E:\个人文档\项目\IntelliJ IDEA\Minecraft\iris-flw-compat\src\main\resources\META-INF\accesstransformer.cfg, --atFile, E:\个人文档\项目\IntelliJ IDEA\Minecraft\iris-flw-compat\build\_atJar_4\parent_at.cfg'
+Classpath:
+ - E:\Cache\gradle-repository\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.0.7\accesstransformers-8.0.7-fatjar.jar
+Working directory: E:\个人文档\项目\IntelliJ IDEA\Minecraft\iris-flw-compat\build\_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================

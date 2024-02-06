@@ -1,0 +1,15 @@
+Java Launcher: D:\Zulu\zulu-17\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, E:\Cache\gradle-repository\caches\modules-2\files-2.1\curse.maven\oculus-581495\5080444\6575bf1885a9910e00b244b63ba059090e48be96\oculus-581495-5080444.jar, --output, E:\Cache\gradle-repository\caches\forge_gradle\deobf_dependencies\curse\maven\oculus-581495\5080444_mapped_parchment_2023.07.02-1.20.1\oculus-581495-5080444_mapped_parchment_2023.07.02-1.20.1.jar, --mcp, E:\Cache\gradle-repository\caches\parchmentgradle\org\parchmentmc\data\parchment-1.20.1\2023.07.02\parchment-1.20.1-2023.07.02.zip, --strip-signatures'
+Classpath:
+ - E:\Cache\gradle-repository\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.3.2\installertools-1.3.2-fatjar.jar
+Working directory: E:\个人文档\项目\IntelliJ IDEA\Minecraft\iris-flw-compat\build\_RenameSrg2Mcp_1451718952
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  E:\Cache\gradle-repository\caches\modules-2\files-2.1\curse.maven\oculus-581495\5080444\6575bf1885a9910e00b244b63ba059090e48be96\oculus-581495-5080444.jar
+Output: E:\Cache\gradle-repository\caches\forge_gradle\deobf_dependencies\curse\maven\oculus-581495\5080444_mapped_parchment_2023.07.02-1.20.1\oculus-581495-5080444_mapped_parchment_2023.07.02-1.20.1.jar
+MCP:    E:\Cache\gradle-repository\caches\parchmentgradle\org\parchmentmc\data\parchment-1.20.1\2023.07.02\parchment-1.20.1-2023.07.02.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete
